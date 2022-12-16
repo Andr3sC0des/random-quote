@@ -1,5 +1,7 @@
 # Random Quote
 
+![Random Quote](./results/desktop.png)
+
 ## SKILLS
 
 - Fetch API
